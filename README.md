@@ -1,6 +1,6 @@
 - 👋 Hi, I am Ali Akbar
-- 👀 I’m interested in programming and software engineering loves coding
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in programming and loves to work with data
+- 🌱 I’m currently learning Pandas
 - 💞️ I’m looking to collaborate on coding
 - 📫 How to reach me Dm me simple
 - 😄 Pronouns: He/him
